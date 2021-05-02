@@ -1,4 +1,4 @@
-#👋 Hi, I’m @LincolnNowell
+# Hi, I’m @LincolnNowell
 - 👀 I’m interested in Software Development especially web development
 - 🌱 I’m currently learning Next.js Tailwind.css
 - 📫 You can reach me at lincolnnowell@gmail.com
