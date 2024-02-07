@@ -1,7 +1,6 @@
 # Hi, I’m @LincolnNowell
-- 👀 I’m interested in Software Development especially web development
-- 🌱 I’m currently learning Next.js Tailwind.css
-- 📫 You can reach me at lincolnnowell@gmail.com
+- I’m currently working as a software developer for a startup called Unconventional Code and hobbyist 
+- You can reach me at lincolnnowell@gmail.com
 
 <!---
 LincolnNowell/LincolnNowell is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
